@@ -7,11 +7,11 @@ require "rails_admin_enumerize/version"
 Gem::Specification.new do |s|
   s.name        = "rails_admin_enumerize"
   s.version     = RailsAdminEnumerize::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of RailsAdminEnumerize."
-  s.description = "TODO: Description of RailsAdminEnumerize."
+  s.authors     = ["name"]
+  s.email       = ["xxx@email.com"]
+  s.homepage    = "xxx"
+  s.summary     = "Summary of RailsAdminEnumerize."
+  s.description = "Description of RailsAdminEnumerize."
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
 
