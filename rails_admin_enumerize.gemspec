@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = RailsAdminEnumerize::VERSION
   s.authors     = ["name"]
   s.email       = ["xxx@email.com"]
-  s.homepage    = "xxx"
+  s.homepage    = "http://www.zzz.com"
   s.summary     = "Summary of RailsAdminEnumerize."
   s.description = "Description of RailsAdminEnumerize."
 
