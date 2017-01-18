@@ -7,8 +7,8 @@ require "rails_admin_enumerize/version"
 Gem::Specification.new do |s|
   s.name        = "rails_admin_enumerize"
   s.version     = RailsAdminEnumerize::VERSION
-  s.authors     = ["name"]
-  s.email       = ["xxx@email.com"]
+  s.authors     = ["gs"]
+  s.email       = ["gs@topmg.kz"]
   s.homepage    = "http://www.zzz.com"
   s.summary     = "Summary of RailsAdminEnumerize."
   s.description = "Description of RailsAdminEnumerize."
